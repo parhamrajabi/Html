@@ -1,0 +1,42 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Vazirmatn-Thin.woff2);
+  }
+
+html {
+    font-size: 10px;
+}
+
+.red-box{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+}
+.robot_font{
+    font-family: Roboto , sans-serif;
+}
+.persian_font{
+    font-family: ;
+}
+
+.rem{
+    font-size: 1rem;
+
+}
+.without_rem{
+    font-size: 16px;
+    margin-top: 100px;
+}
+.font_style{
+    font-family: Roboto , sans-serif ;
+    font: size 3.2rem;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 50px;
+    letter-spacing: 10px;
+    word-spacing: 40px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: line-through;
+}
+
